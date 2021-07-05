@@ -28,13 +28,18 @@
     "comments": [
       {
         "id": 1,
-        "body": "some comment",
+        "body": "I am happy to start working at Zemoga",
         "postId": 1
       },
       {
         "id": 2,
-        "body": "some comment",
+        "body": "I am excited to start working at Zemoga",
         "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "Christiam, Welcome to zemoga",
+        "postId": 2
       }
     ],
     "profiles": [
