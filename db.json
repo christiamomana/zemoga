@@ -5,21 +5,24 @@
         "description":
           "I really would like work in Zemoga. I am excited  to be part of this big company.",
         "read": false,
-        "favorite": false
+        "favorite": false,
+        "profileId": 1
       },
       {
         "id": 2,
         "description":
           "I want to contribute my knowledge to every challenge that arises.",
         "read": true,
-        "favorite": false
+        "favorite": false,
+        "profileId": 1
       },
       {
         "id": 3,
         "description":
           "I am a self-taught person, passionate about learning, in love with programming.",
         "read": true,
-        "favorite": true
+        "favorite": true,
+        "profileId": 1
       }
     ],
     "comments": [
@@ -34,7 +37,20 @@
         "postId": 1
       }
     ],
-    "profile": {
-      "name": "typicode"
-    }
+    "profiles": [
+      { 
+        "id": 1,
+        "name": "Christiam",
+        "email": "christiamchivico@gmail.com",
+        "phone": "3173733044",
+        "website": "https://www.linkedin.com/in/christiam-oma%C3%B1a-chivico-894080124/"
+      },
+      { 
+        "id": 2,
+        "name": "Laura",
+        "email": "laura.bernal@zemoga.com",
+        "phone": "3173735897",
+        "website": "https://www.linkedin.com/in/laura-bernal-ram%C3%ADrez-8b998abb"
+      }
+    ]
   }
