@@ -2,15 +2,24 @@
     "posts": [
       {
         "id": 1,
-        "title": "Post 1"
+        "description":
+          "I really would like work in Zemoga. I am excited  to be part of this big company.",
+        "read": false,
+        "favorite": false
       },
       {
         "id": 2,
-        "title": "Post 2"
+        "description":
+          "I want to contribute my knowledge to every challenge that arises.",
+        "read": true,
+        "favorite": false
       },
       {
         "id": 3,
-        "title": "Post 3"
+        "description":
+          "I am a self-taught person, passionate about learning, in love with programming.",
+        "read": true,
+        "favorite": true
       }
     ],
     "comments": [
