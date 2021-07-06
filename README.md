@@ -28,4 +28,4 @@ ANDROID
 >npx react-native run-android
 
 ## Notes:
-### Because I don't have a mac I couldn't run the project on iOS, however I took into account the mac considerations.
+#### Unfortunately I couldn't run the project on iOS because I don't have a Mac, however I  had the considerations for iOS
