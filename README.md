@@ -9,7 +9,6 @@ For the interface components implement native-base, it is a powerful library eas
 
 The structure of the project is distributed in containers and components of type "functional components" written in typescript to take advantage of the benefits of the same as its typing.
 
-Translated with www.DeepL.com/Translator (free version)
 
 ## Environment setup for react-native 
 Follow these instructions to build your project rect-native. [Setup](https://reactnative.dev/docs/environment-setup)
