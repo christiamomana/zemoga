@@ -83,6 +83,13 @@ const PostsContainer: React.FC<any> = ({navigation}) => {
   };
 
   const goToPost = (post: Post) => {
+    if (!post.read) {
+      let postRead: any = realm.objects('posts').filtered(`id = ${post.id}`);
+      realm.write(() => {
+        postRead[0].read = true;
+      });
+      reloadPosts()
+    }
     navigation.navigate('Post', {post, reloadPosts: reloadPosts});
   };
 
